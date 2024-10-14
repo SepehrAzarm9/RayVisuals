@@ -1,8 +1,8 @@
 import React from "react";
 import Slider from "react-slick";
-import Profile1 from "../../../../components/assets/images/profiles/1.png";
-import Profile2 from "../../../../components/assets/images/profiles/2.png";
-import Profile3 from "../../../../components/assets/images/profiles/3.png";
+import Profile1 from "../../../../components/assets/images/profile.png";
+import Profile2 from "../../../../components/assets/images/profile.png";
+import Profile3 from "../../../../components/assets/images/profile.png";
 
 const Testimonials = () => {
   const testimonials = [
